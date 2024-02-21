@@ -1,0 +1,3 @@
+[submodule "scrapers/MediumScraper"]
+	path = scrapers/MediumScraper
+	url = https://github.com/dmmagdal/MediumScraper.git
